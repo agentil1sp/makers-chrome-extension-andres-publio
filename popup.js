@@ -8,7 +8,7 @@ function sendRequest() {
         var xhr = new XMLHttpRequest();
         xhr.open("POST", "https://api.openai.com/v1/chat/completions", true);
         xhr.setRequestHeader('Content-Type', 'application/json');
-        xhr.setRequestHeader("Authorization", window.mykey);
+        xhr.setRequestHeader("Authorization", 'Bearer ' + window.mykey);
         xhr.onreadystatechange = function() {
             if (xhr.readyState === 4 && xhr.status === 200) {
                 var response = JSON.parse(xhr.responseText);
