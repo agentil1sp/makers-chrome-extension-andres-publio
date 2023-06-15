@@ -4,9 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="popup.css">
 </head>
 <body>
     <h1>Comenzando</h1>
+    <form action="">
+        <textarea name="request" id="request" cols="30" rows="10"></textarea><br>
+        <button type="button" id="sendRequest">Send Request</button>
+    </form>
+    <div id="response"></div>
+    <script src="keys.js"></script>
     <script src="popup.js"></script>
 </body>
 </html>
+
+<!-- onclick="sendRequest()" -->
