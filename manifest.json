@@ -1,24 +1,16 @@
 {
     "manifest_version": 3,
-    "name": "ChatGPT11",
-    "description": "Base Level Extension",
+    "name": "ChatGPT at any time",
+    "description": "A Chrome extension allowing users to prompt in ChatGPT without leaving the tab",
     "version": "1.0",
+    "icons": {
+        "128": "images/icon2.png"
+      },
 
     "action": {
         "default_popup": "popup.html",
         "default_icon": "images/icon2.png"
       },
-
-    "background": {
-        "service_worker": "background.js"
-    },
-
-    "content_scripts": [
-        {
-            "matches": ["<all_urls>"],
-            "js": ["scripts/content.js"]
-        }
-    ],
 
     "permissions": [
         "storage",
