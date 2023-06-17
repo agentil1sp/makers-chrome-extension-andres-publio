@@ -15,5 +15,6 @@ This repository contains the different directories and files developed to carry 
 - ✅ Have an API to communicate with your database.
     - [API](https://github.com/agentil1sp/andres-publio.git)
 - ✅ Have a simple UI and a way to interact with it.
+    - [simple UI](https://github.com/agentil1sp/makers-chrome-extension-andres-publio/blob/main/images/simple%20UI.png)
 - ✅ Deploy: put your code to work online so that other people can use it. 
 - ✅ Record your Demo.
