@@ -55,5 +55,7 @@ This repository contains the different directories and files developed to carry 
 - Tap the extension and you are ready to use it.
 - [Video of how to do the process](https://www.loom.com/share/39744e1039114f4c87d044274c237d13?sid=a43e1803-49e6-4762-9be9-3c4081d7bf9e)
 
+## 🤖 Code improvements
+
 
 
