@@ -27,6 +27,7 @@ This repository contains the different directories and files developed to carry 
 - Firebase
 - Html
 - Css
+- Heroku
 
 ## 📂 Proyect Roadmap
 
@@ -42,14 +43,21 @@ This repository contains the different directories and files developed to carry 
 - Make a git clone of this repository
 - Go to [OpenIA](https://platform.openai.com/account/api-keys) enter the apikey section and generate an apikey.
 - Go to the keys.js file and paste the apikey inside the quotes.
-- Go to the [chrome extensions](chrome://extensions/) page and hit enable developer mode in the upper right corner.
+- Go to the chrome extensions page chrome://extensions and hit enable developer mode in the upper right corner.
 - In the upper right corner click on load unpacked extension.
 - Find the folder you got from the repository and select it.
 - Click the extensions icon in the browser and pin the extension.
 - Tap the extension and you are ready to use it.
-- [Video of how to do the process](https://www.loom.com/share/39744e1039114f4c87d044274c237d13?sid=a43e1803-49e6-4762-9be9-3c4081d7bf9e)
+- [Video of how to do the process](https://www.loom.com/share/dda69892dd9f4c57b6d2412035efa69f?sid=953d24cd-29f9-4575-822d-2bc044cef250)
 
 ## 🤖 Code improvements
+- I would put the files in folders, for example popup files.
+- I would create a login because currently when you hit the history button you see the history of all the people who have used the extension, although I like it the way it is because you give people the opportunity to see what questions other people ask.
+- In the api I would create a structure of controllers and routas, maybe it is not necessary because it only has two functionalities but I would do it anyway.
+- I would add more styles to the history window.
+- I would have the history sorted by newest to oldest request.
+- I would change the style and size of the extension interface.
+- I would put a functionality for people to set the apikey from the extension interface.
 
 ## 🎥 Reference videos
 
