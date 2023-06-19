@@ -1,5 +1,5 @@
 # 🧠 MAKERS Coding Challenge 2023
-Andres Publio Gentile | [Website](https://shrouded-waters-32984-0d9758ff8558.herokuapp.com/read/chat)
+Andres Publio Gentile | 
 
 ### Chosen option: 4
 #### A Chrome extension allowing users to prompt in ChatGPT without leaving the tab
