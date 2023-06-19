@@ -1,1 +1,2 @@
-window.mykey = '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'
+//Poner la APIkey de ChatGPT en la variable mykey
+window.mykey = ''
